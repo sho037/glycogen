@@ -1,4 +1,4 @@
-package obanyan.glycogen.security.controller;
+package obanyan.glycogen.controller;
 
 import java.security.Principal;
 
